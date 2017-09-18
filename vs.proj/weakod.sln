@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "weakod", "weakod.vcxproj", "{1A3421AA-D14D-4531-B446-9E2242DDED37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A3421AA-D14D-4531-B446-9E2242DDED37}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1A3421AA-D14D-4531-B446-9E2242DDED37}.Debug|Win32.Build.0 = Debug|Win32
+		{1A3421AA-D14D-4531-B446-9E2242DDED37}.Release|Win32.ActiveCfg = Release|Win32
+		{1A3421AA-D14D-4531-B446-9E2242DDED37}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
